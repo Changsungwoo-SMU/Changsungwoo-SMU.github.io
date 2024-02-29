@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'NanumSquare';
+    src:url(../font/NanumSquareR.woff);
+}
+
+div, i {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: 'NanumSquare';
+}
+
+html {
+    line-height: 1.15;
+}
+
+.main-background {
+    width: 100%;
+    background-color: #f7f9fc;
+}
+
+.size-cover {
+    width: 100%;
+    height: 90%;
+    bottom: 15px;
+    right: 15px;
+}
+
+.full-cover {
+    width: 100%;
+}
